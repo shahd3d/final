@@ -1,0 +1,43 @@
+.ul-list{
+  display: flex;
+font-style:oblique;
+color:dimgray;
+font-size:xx-large;
+  justify-content: space-around; 
+  background-color:blanchedalmond;
+  padding: 13px;
+}
+
+
+ul{
+  display: flex;
+  gap: 40px;
+  margin-top: 0%;
+  margin-right: 11px;
+}
+li{
+
+  list-style: none;
+}
+
+/* corss   */
+
+.container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+ 
+}
+img{
+  width: 60%;
+  margin: 30%;
+}
+.foteer{
+  font-style: oblique;
+  color:dimgray;
+  font-size: xx-large;
+  background-color:blanchedalmond;
+  padding: 13px;
+}
+p{
+  text-align:center;
+}
